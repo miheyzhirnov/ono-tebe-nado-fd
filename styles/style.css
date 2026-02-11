@@ -1,1 +1,28 @@
-/* место для вашего кода */
+.header{
+    width: auto;
+    height: 293px;
+    background-color: aliceblue;
+}
+.cover{
+    width: auto;
+    height: 757px;
+    background-image: url(/images/cover.jpg) ;
+}    
+.lots{
+    width: 1052px;
+    height: 723px;
+    background-color: aliceblue;
+    margin: 180px auto 0;
+    
+}
+.about{
+    width: 1052px;
+    height: 595px;
+    background-color: aliceblue;
+    margin: 120px auto 0;
+}
+.footer{
+    width: auto;
+    height: 180px;
+    background-color: aliceblue;
+}
